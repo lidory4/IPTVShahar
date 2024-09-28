@@ -1,36 +1,4 @@
-#EXTM3U max-conn="2" url-tvg="https://af-play.com/xmltv.xml.gz"
-#EXTINF:-1 tvg-id="yes-movies-action-hd-il"tvg-logo="https://af-play.com/storage/images/channel_logos/b2c527f27939125f9f7f8e996a8e7cdb.png"group-title="Israel"catchup-days="7",Yes Movies Action HD
-http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-movies-action-hd-il/video.m3u8
-#EXTINF:-1 tvg-id="yes-movies-comedy-il"tvg-logo="https://af-play.com/storage/images/channel_logos/dd0f4a936e1d4fab1eaf63c031e15693.png"group-title="Israel"catchup-days="7",Yes Movies Comedy HD
-http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-movies-comedy-il/video.m3u8
-#EXTINF:-1 tvg-id="hot-cinema1-il"tvg-logo="https://af-play.com/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png"group-title="Israel"catchup-days="7",HOT Cinema 1 HD
-http://bethoven.af-stream.com:1600/s/6sftfxzu/hot-cinema1-il/video.m3u8
-#EXTINF:-1 tvg-id="hot-cinema2-il"tvg-logo="https://af-play.com/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png"group-title="Israel"catchup-days="7",HOT Cinema 2 HD
-http://bethoven.af-stream.com:1600/s/6sftfxzu/hot-cinema2-il/video.m3u8
-#EXTINF:-1 tvg-id="IL: PARTNER TV MOVIES ᴴᴰ"tvg-logo="https://i.imgur.com/TGO7JGS.png"group-title="Israel"catchup-days="7",PARTNER TV MOVIES
-http://drawn81293.cdngold.me:80/a3eaffd33bc0/fcde90890c/822250
-#EXTINF:-1 tvg-id="IL: FREE TV MOVIES COMDEY ᴴᴰ"tvg-logo="https://cms.freetv.tv/uploads/movies_comedy_08ad949d19.webp?updated_at=2023-05-30T10:29:39.147Z"group-title="Israel"catchup-days="7",FREE TV MOVIES COMDEY
-http://drawn81293.cdngold.me:80/a3eaffd33bc0/fcde90890c/822206
-#EXTINF:-1 tvg-id="IL: FREE TV MOVIES ACTION ᴴᴰ"tvg-logo="https://i.imgur.com/DqLC51h.png"group-title="Israel"catchup-days="7",FREE TV MOVIES ACTION
-http://drawn81293.cdngold.me:80/a3eaffd33bc0/fcde90890c/822207
-#EXTINF:-1 tvg-id="hot-israeli-cinema-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/411dfebda2aee62ec1bb9fda2ad81633.png"group-title="Israel"catchup-days="7",הוט קולנוע ישראלי
-http://bethoven.af-stream.com:1600/s/6sftfxzu/hot-israeli-cinema-il-hd/video.m3u8
-#EXTINF:-1 tvg-id="yes-israel-il"tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png"group-title="Israel"catchup-days="7",Yes ישראלי
-http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-israel-il/video.m3u8
-#EXTINF:-1 tvg-id="IL: FREE TV MOVIES ISRAELI ᴴᴰ"tvg-logo="https://cms.freetv.tv/uploads/movies_israeli_cba89b2f95.webp?updated_at=2023-05-30T10:29:39.424Z"group-title="Israel"catchup-days="7",FREE TV ישראלי
-http://drawn81293.cdngold.me:80/a3eaffd33bc0/fcde90890c/822203
-#EXTINF:-1 tvg-id="11-kanal-il"tvg-logo="https://af-play.com/storage/images/channel_logos/6773deb8a03b790ed0c1e153d4309b28.png"group-title="Israel"catchup-days="7",כאן 11
-http://bethoven.af-stream.com:1600/s/6sftfxzu/11-kanal-il/video.m3u8
-#EXTINF:-1 tvg-id="12-kanal-il"tvg-logo="https://af-play.com/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png"group-title="Israel"catchup-days="7",רשת 12
-http://bethoven.af-stream.com:1600/s/6sftfxzu/12-kanal-il/video.m3u8
-#EXTINF:-1 tvg-id="13-kanal-il"tvg-logo="https://af-play.com/storage/images/channel_logos/361465d299cdfc0759e335103ecc0e77.png"group-title="Israel"catchup-days="7",קשת 13
-http://bethoven.af-stream.com:1600/s/6sftfxzu/13-kanal-il/video.m3u8
-#EXTINF:-1 tvg-id="14-kanal-il"tvg-logo="https://af-play.com/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png"group-title="Israel"catchup-days="7",ערוץ 14
-http://bethoven.af-stream.com:1600/s/6sftfxzu/14-kanal-il/video.m3u8
-#EXTINF:-1 tvg-id="IL: PARTNER TV I24 NEWS HEBREW ᴴᴰ"tvg-logo="https://www.yes.co.il/documents/35670/2192721/i24_320-213.png/80560bbb-46c3-638a-392f-a380454575e5?t=1722175911238"group-title="Israel"catchup-days="7",i24
-http://drawn81293.cdngold.me:80/a3eaffd33bc0/fcde90890c/889906
-#EXTINF:-1 tvg-id="yes-comedy-hd-il"tvg-logo="https://af-play.com/storage/images/channel_logos/3a69e741398e8c35e66d285661a604b5.png"group-title="Israel"catchup-days="7",Yes TV Comedy HD
-http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-comedy-hd-il/video.m3u8
+hngfvnvbchn vcbnfgdn gfdjh dfg
 #EXTINF:-1 tvg-id="hot-comedy-central-il-hd"tvg-logo="https://af-play.com/storage/images/pack_logos/479ecd9c606cac2ebdfd10a7f5f1297d.png"group-title="Israel"catchup-days="7",HOT Comedy HD
 http://bethoven.af-stream.com:1600/s/6sftfxzu/hot-comedy-central-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="humor-channel-il-hd"tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png"group-title="Israel"catchup-days="7",ערוץ ההומור
