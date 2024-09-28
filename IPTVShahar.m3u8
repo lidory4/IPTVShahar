@@ -27,7 +27,7 @@ http://bethoven.af-stream.com:1600/s/6sftfxzu/12-kanal-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/6sftfxzu/13-kanal-il/video.m3u8
 #EXTINF:-1 tvg-id="14-kanal-il"tvg-logo="https://af-play.com/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png"group-title="Israel"catchup-days="7",ערוץ 14
 http://bethoven.af-stream.com:1600/s/6sftfxzu/14-kanal-il/video.m3u8
-#EXTINF:0 group-title="Israel" tvg-id="i24-il" tvg-logo="https://af-play.com/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png" tvg-rec="7" catchup-days="7",i24 HD
+#EXTINF:1  tvg-id="i24-il" tvg-logo="https://af-play.com/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png" tvg-rec="7" catchup-days="7",i24
 http://bethoven.af-stream.com:1600/s/6sftfxzu/i24-il/video.m3u8
 #EXTINF:-1 tvg-id="yes-comedy-hd-il"tvg-logo="https://af-play.com/storage/images/channel_logos/3a69e741398e8c35e66d285661a604b5.png"group-title="Israel"catchup-days="7",Yes TV Comedy HD
 http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-comedy-hd-il/video.m3u8
