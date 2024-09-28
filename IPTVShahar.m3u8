@@ -1,4 +1,3 @@
-
 #EXTM3U max-conn="2" url-tvg="https://af-play.com/xmltv.xml.gz"
 #EXTINF:-1 tvg-id="yes-movies-action-hd-il"tvg-logo="https://af-play.com/storage/images/channel_logos/b2c527f27939125f9f7f8e996a8e7cdb.png"group-title="Israel"catchup-days="7",Yes Movies Action HD
 http://bethoven.af-stream.com:1600/s/6sftfxzu/yes-movies-action-hd-il/video.m3u8
